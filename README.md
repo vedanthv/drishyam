@@ -51,18 +51,16 @@ https://ai-image-generator-mern.netlify.app
 
 #### Community Showcase page
 
-<!-- <img src="./screenShots/Community-Showcase" alt="" /> -->
-
-![Community Showcase](./screenShots/Community-Showcase.png)
+![Community Showcase](drishyam/screenShots/Community-Showcase.png)
 
 ## Community Showcase page (Responsive) ;
 
-![Community Showcase](./screenShots/Community-Showcase-mobile.png)
+![Community Showcase](drishyam/screenShots/Community-Showcase-mobile.png)
 
 #### AI Image Generator page
 
-![AI Image Generator](./screenShots/Generate-ai-image.png)
+![AI Image Generator](drishyam/screenShots/Generate-ai-image.png)
 
 ## AI Image Generator page (Responsive) ;
 
-![AI Image Generator](./screenShots/Generate-ai-image-mobile.png)
+![AI Image Generator](drishyam/screenShots/Generate-ai-image-mobile.png)
